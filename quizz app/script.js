@@ -95,63 +95,63 @@ const characters = {
     luke: {
         name: "Luke Skywalker",
         description: "You are optimistic, brave, and driven by a strong moral compass. Like Luke, you believe in the good in others and are willing to sacrifice for what's right.",
-        image: "img/luke.webp" // Replace with actual image path
+        image: "img/luke.webp" 
     },
     leia: {
         name: "Princess Leia",
         description: "Natural leader with a fierce dedication to your cause. You're diplomatic but not afraid to fight when necessary.",
-        image: "img/leia.jpeg" // Updated image path
+        image: "img/leia.jpeg" 
       },
           
     han: {
         name: "Han Solo",
         description: "Charming and quick-witted, you may seem self-serving at first but have a heart of gold when it really matters.",
-        image: "img/han solo.webp" // Replace with actual image path
+        image: "img/han solo.webp"
     },
     vader: {
         name: "Darth Vader",
         description: "Powerful and determined, you let nothing stand in your way. You have strong convictions but might need to watch your aggressive tendencies.",
-        image: "img/vader.webp" // Replace with actual image path
+        image: "img/vader.webp"
     },
     yoda: {
         name: "Yoda",
         description: "Wise and patient, you value knowledge and understanding. Your guidance helps others reach their potential.",
-        image: "img/yoda.webp" // Replace with actual image path
+        image: "img/yoda.webp" 
     },
     obi: {
         name: "Obi-Wan Kenobi",
         description: "Balanced and wise, you're a natural mentor who follows tradition while adapting to new situations.",
-        image: "img/obi.webp" // Replace with actual image path
+        image: "img/obi.webp"
     },
     padme: {
         name: "Padmé Amidala",
         description: "Diplomatic and compassionate, you fight for democracy and justice through peaceful means when possible.",
-        image: "img/padme.png" // Replace with actual image path
+        image: "img/padme.png"
     },
     maul: {
         name: "Darth Maul",
         description: "Intense and focused, you're driven by strong emotions and excel in confrontational situations.",
-        image: "img/maul.webp" // Replace with actual image path
+        image: "img/maul.webp" 
     },
     c3po: {
         name: "C-3PO",
         description: "Protocol is important to you. You're knowledgeable, cautious, and always trying to keep others out of trouble.",
-        image: "img/c3po.jpeg" // Replace with actual image path
+        image: "img/c3po.jpeg" 
     },
     r2d2: {
         name: "R2-D2",
         description: "Resourceful and loyal, you solve problems creatively and aren't afraid to bend the rules when needed.",
-        image: "img/r2d2.jpeg" // Replace with actual image path
+        image: "img/r2d2.jpeg"
     },
     chewbacca: {
         name: "Chewbacca",
         description: "Fiercely loyal and brave, you're a dedicated friend who stands by your allies no matter what.",
-        image: "img/chewbacca.jpeg" // Replace with actual image path
+        image: "img/chewbacca.jpeg" 
     },
     thrawn: {
         name: "Grand Admiral Thrawn",
         description: "Strategic and calculating, you analyze situations deeply and plan several steps ahead.",
-        image: "img/thrawn.jpeg" // Replace with actual image path
+        image: "img/thrawn.jpeg" 
     }
 };
 
